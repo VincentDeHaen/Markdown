@@ -17,3 +17,4 @@ The modules correspond to a particular high level functionnalites.
 * **C**: *C*: The C
 
 [link](http://example.com)
+[I'm a relative reference to a repository file](test2.md)

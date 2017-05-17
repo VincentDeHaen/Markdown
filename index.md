@@ -1,5 +1,6 @@
 <div class="page-break"></div>
 
+[Next] (test2.md)
 # 1. Hello Markdown
 This is a test
 
